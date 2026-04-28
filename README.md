@@ -74,4 +74,3 @@ The remaining imported modules used by the scripts, such as `math`, `time`, `dat
 
 Corresponding author: Petr Honzík  
 Email: <honzikp@fel.cvut.cz>
->>>>>>> 7dca122 (Initial commit)

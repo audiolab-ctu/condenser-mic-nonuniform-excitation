@@ -1,4 +1,4 @@
-** README
+# README
 
 This repository contains Python scripts and reference data used to compute the analytical results presented in the article:
 

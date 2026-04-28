@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# condenser-mic-nonuniform-excitation
-Python implementation for analytical modeling of condenser microphones with nonuniform acoustic excitation.
-=======
-# Analytical modeling of condenser microphones with nonuniform acoustic excitation and backplate perforation patterns
-
 This repository contains Python scripts and reference data used to compute the analytical results presented in the article:
 
 **Šimonová et al., “Analytical modeling of condenser microphones with nonuniform acoustic excitation and backplate perforation patterns.”**

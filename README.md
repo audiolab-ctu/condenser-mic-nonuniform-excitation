@@ -3,6 +3,7 @@
 This repository contains Python scripts and reference data used to compute the analytical results presented in the article:
 
 **Šimonová et al., “Analytical modeling of condenser microphones with nonuniform acoustic excitation and backplate perforation patterns.”, J. Acoust. Soc. Am., 159(5), 4512–4523 (2026)**
+
 URL: https://doi.org/10.1121/10.0043902
 
 If you use this code or the accompanying data in your own work, please cite the article above.
